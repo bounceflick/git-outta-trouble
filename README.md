@@ -15,3 +15,11 @@ This is a cheatsheet for how to recover from tricky Git situations.
 - [I've lost work!](doc/lost_work.md)
 - [AH I DON'T KNOW WHAT I DID](doc/unknown.md)
 - [WHAT DID YOU JUST SAY?](doc/huh.md)
+
+## Show me how to...
+
+- [write proper commit messages]()
+- [decide what belongs in each commit]()
+- [find the commit where a bug was introduced]()
+- [integrate changes with my team efficiently]()
+- [save my temporary work]()
