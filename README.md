@@ -18,7 +18,7 @@ This is a cheatsheet for how to recover from tricky Git situations.
 
 ## Show me how to...
 
-- [write proper commit messages]()
+- [write proper commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [decide what belongs in each commit]()
 - [find the commit where a bug was introduced]()
 - [integrate changes with my team efficiently]()
